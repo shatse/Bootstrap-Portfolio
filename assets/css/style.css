@@ -1,8 +1,8 @@
-body {
-    background-color: lightgray;
+/* body {
+    background-color: lightgray; */
 }
 /*NAVBAR*/
-#navbar {
+/* #navbar {
     height:50px;
     width: 100%;
     background-color:white;
@@ -15,9 +15,9 @@ body {
     text-align: center;
     font-family: 'Georgia', Times, Times New Roman, serif;
     color: white;
-}
+} */
 
-.tabs2 {
+/* .tabs2 {
     height: 100%;
     line-height: 50px;
     vertical-align: middle;
@@ -25,9 +25,15 @@ body {
     font-family: 'Georgia', Times, Times New Roman, serif;
     margin-right: 10px;
     text-align: center;
-}
+} */
 
-#links {
+/* #links {
+    height: 100%;
+    line-height: 50px;
+    vertical-align: middle;
+    color: #777777;
+    font-family: 'Georgia', Times, Times New Roman, serif;
+    margin-right: 10px;
     text-align: right;
 }
 
@@ -44,9 +50,9 @@ body {
     font-family: 'Georgia', Times, Times New Roman, serif;
     color:#4aaaa5;
     font-size: 40px;
-}
+} */
 
-.footer {
+/* .footer {
     position: fixed;
     left: 0;
     bottom:0;
@@ -85,4 +91,4 @@ body {
     width: 250px;
     position: relative;
     text-align: center;
-}
+} */
